@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/en-ai/.vs/en-ai.slnx
+/en-ai/en-ai/obj
