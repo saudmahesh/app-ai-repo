@@ -1,2 +1,1 @@
-# app-ai-repo
-ai 
+# ai-app
